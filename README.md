@@ -1,5 +1,7 @@
 ## 學員討論區
 
+[![Join the chat at https://gitter.im/jollen/AF10x-Android-HAL-Framework](https://badges.gitter.im/jollen/AF10x-Android-HAL-Framework.svg)](https://gitter.im/jollen/AF10x-Android-HAL-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Android HAL 相關課程
 
 ## 資源匯整
