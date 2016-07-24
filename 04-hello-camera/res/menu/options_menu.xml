@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+	android:id="@+id/item_1"
+	android:title="Quit"
+/>
+<item
+	android:id="@+id/item_2"
+	android:title="Mokoid Camera"
+/>
+<item
+	android:id="@+id/item_3"
+	android:title="Camera Button"
+/>
+</menu>
+
