@@ -3,7 +3,7 @@ LOCAL_PATH:= $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_SRC_FILES := Main.cpp MokoidSurface.cpp
+LOCAL_SRC_FILES := Main.cpp  MokoidSurface.cpp
 LOCAL_MODULE := mysurface
 LOCAL_MODULE_TAGS := eng
 
@@ -11,9 +11,7 @@ LOCAL_MODULE_TAGS := eng
 LOCAL_SHARED_LIBRARIES := \
         libcutils \
         libutils \
-        libbinder \
         libui \
-        libgui
 
 LOCAL_C_INCLUDES += \
 	frameworks/base/libs \
@@ -26,3 +24,5 @@ LOCAL_C_INCLUDES += \
 LOCAL_MODULE_PATH := $(TARGET_OUT_OPTIONAL_EXECUTABLES)
 
 include $(BUILD_EXECUTABLE)
+
+
