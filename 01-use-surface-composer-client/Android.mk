@@ -4,7 +4,7 @@ LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_SRC_FILES := Main.cpp  MokoidSurface.cpp
-LOCAL_MODULE := mysurface
+LOCAL_MODULE := mysurface1
 LOCAL_MODULE_TAGS := eng
 
 #LOCAL_SHARED_LIBRARIES := libEGL libGLESv1_CM libui
