@@ -9,3 +9,4 @@
 * Douglas C. Schmidt, www.dre.vanderbilt.edu/~schmidt
 * 設計模式：Android原始碼解析與應用, http://www.books.com.tw/products/0010709953
 * 专访何红辉：谈谈Android源码中的设计模式, http://www.infoq.com/cn/news/2015/11/hehonghui-interview
+* Android源码设计模式分析项目, https://github.com/simple-android-framework-exchange/android_design_patterns_analysis
